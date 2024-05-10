@@ -1,0 +1,108 @@
+[
+  {
+    "name": "推薦",
+    "list": [
+      {
+        "url": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/pg/pic/bhmb.jpg",
+        "icon": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/pg/pic/bhmb.jpg"
+      }
+    ]
+  },
+  {
+    "name": "宝盒全家桶",
+    "list": [
+      {
+        "name": "宝盒TV",
+        "url": "https://cloud.lxweb.cn/f/MJdxFG/%E5%AE%9D%E7%9B%92TV%20VIP%E7%89%88.apk",
+        "icon": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/pg/bhtv.png",
+        "version": "VIP版"
+      },
+      {
+        "name": "宝盒BOX",
+        "url": "https://cloud.lxweb.cn/f/QBmES1/%E6%9C%88%E5%85%89%E5%AE%9D%E7%9B%92BOX.apk",
+        "icon": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/pg/box.jpg",
+        "version": "0413"
+      },
+      {
+        "name": "宝盒PLUS",
+        "url": "https://cloud.lxweb.cn/f/zDVjcz/%E6%9C%88%E5%85%89%E5%AE%9D%E7%9B%92PLUS.apk",
+        "icon": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/pg/plus.jpg",
+        "version": "0414"
+      },{
+        "name": "宝盒MAX",
+        "url": "https://cloud.lxweb.cn/f/gm9wSK/%E6%9C%88%E5%85%89%E5%AE%9D%E7%9B%92MAX427.apk",
+        "icon": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/pg/pic/max.jpg",
+        "version": "0426"
+      },
+      {
+        "name": "宝盒影视仓",
+        "url": "https://cloud.lxweb.cn/f/oGYwCY/%E6%9C%88%E5%85%89%E5%BD%B1%E8%A7%86%E4%BB%935.0.29.apk",
+        "icon": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/pg/ysc.jpg",
+        "version": "5.029"
+      }
+    ]
+  },
+
+  {
+    "name": "其他娱乐类",
+    "list": [
+      {
+        "name": "秒看TV（随意注册）",
+        "url": "https://cloud.lxweb.cn/f/aNLgh6/%E7%A7%92%E7%9C%8BTV.apk",
+        "icon": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/pg/mk.jpg",
+        "version": "1.0.7"
+      },{
+        "name": "我的电视",
+        "url": "https://cloud.lxweb.cn/f/mgrACj/my-tv-v1.8.4.apk",
+        "icon": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/pg/wd.jpg",
+        "version": "1.8.4"
+      },{
+        "name": "IPTV（不定期免费）",
+        "url": "https://cloud.lxweb.cn/f/PkPOUb/IPTV.apk",
+        "icon": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/pg/iptv.jpg",
+        "version": "最新版"
+      }, {
+        "name": "SKY（仅供测试）",
+        "url": "https://cloud.lxweb.cn/f/PkGlUb/sky.apk",
+        "icon": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/pg/pic/sky.jpg",
+        "version": "仅供测试"
+      },{
+        "name": "电视大全直播",
+        "url": "https://cloud.lxweb.cn/f/pLD0se/dsdq.apk",
+        "icon": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/pg/pic/dsdq.jpg",
+        "version": "1.3.2"
+      },{
+        "name": "高清直播",
+        "url": "https://cloud.lxweb.cn/f/zEwDiz/%E9%AB%98%E6%B8%85%E7%9B%B4%E6%92%AD.apk",
+        "icon": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/pg/pic/gq.jpg",
+        "version": "2.5.0"
+      },{
+        "name": "独播库TV版",
+        "url": "https://cloud.lxweb.cn/f/zeGbiz/%E7%8B%AC%E6%92%AD%E5%BA%93TV_5.5.apk",
+        "icon": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/pg/pic/dbk.jpg",
+        "version": "5.5"
+      },{
+        "name": "纯粹直播",
+        "url": "https://cloud.lxweb.cn/f/07YVU0/%E7%BA%AF%E7%B2%B9%E7%9B%B4%E6%92%AD.apk",
+        "icon": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/pg/pic/cc.jpg",
+        "version": "1.6.8"
+      }, {
+        "name": "梨园行戏曲",
+        "url": "https://cloud.lxweb.cn/f/BY7Ys9/lyx.apk",
+        "icon": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/pg/pic/lyx.jpg",
+        "version": "登录即是VIP"
+      },{
+        "name": "应用管家",
+        "url": "https://cloud.lxweb.cn/f/q1qGfe/%E5%BA%94%E7%94%A8%E7%AE%A1%E5%AE%B6.apk",
+        "icon": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/pg/pic/gj.jpg",
+        "version": "V1.3.4"
+      },
+      {
+        "name": "KTV（K歌）",
+        "url": "https://cloud.lxweb.cn/f/Adrefa/IKTV_50.0.0_%E6%B0%B8%E4%B9%85%E5%85%8D%E8%B4%B9%E7%89%88_.apk",
+        "icon": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/pg/kg.jpg",
+        "version": "50版"
+      }
+    ]
+  }
+]
